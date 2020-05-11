@@ -1,0 +1,42 @@
+.App {
+  font-family: 'Jost', sans-serif;
+  padding: 20px;
+  width: auto;
+  margin: 20px auto;
+  text-align: center;
+}
+
+#Table table {
+  width: 100%;
+}
+
+#Table td {
+    border: 1px solid #bcc;
+    width: 33%;
+}
+
+#Table th {
+    width: 33%;
+    border: 1px solid #000;
+}
+
+#Form label {
+    display: block;
+    margin: 15px 30px;
+}
+
+#Form input {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 100%;
+}
+
+#Form button {
+  width: 50%;
+  padding: 15px 0;
+  background-color: rgb(190, 13, 146);
+  border: none;
+  color: rgb(255, 255, 255);
+  margin: 20px 0;
+  margin-bottom: 30px;
+}
